@@ -40,4 +40,4 @@ Berisi tugas Teorema Pythagoras, yaitu:
 
 - [`pythagoras.py`](Pertemuan-01/pythagoras.py) — program Python untuk menghitung sisi miring
 - [`Tugas_Pertemuan_1_Pythagoras (1).docx`](Pertemuan-01/Tugas_Pertemuan_1_Pythagoras%20(1).docx) — laporan tugas
-- [`Diagram alur perhitungan Pythagoras (2).docx`](Pertemuan-01/Diagram%20alur%20perhitungan%20Pythagoras%20(2).docx) — flowchart
+- [`Flowchart perhitungan Pythagoras (2).docx`](Pertemuan-01/Flowchart%20perhitungan%20Pythagoras%20(2).docx) — flowchart
