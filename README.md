@@ -5,8 +5,7 @@
 **Mata Kuliah:** Algoritma dan Pemrograman
 
 ## Deskripsi
-Program ini digunakan untuk menghitung panjang sisi miring segitiga siku-siku menggunakan Teorema Pythagoras.
-
+Program ini digunakan untuk menghitung panjang sisi miring (hipotenusa) pada segitiga siku-siku menggunakan Teorema Pythagoras. Pengguna memasukkan nilai sisi a dan sisi b, kemudian program menghitung panjang sisi miring berdasarkan rumus Pythagoras dan menampilkan hasilnya.
 ## Rumus
 c = √(a² + b²)
 
