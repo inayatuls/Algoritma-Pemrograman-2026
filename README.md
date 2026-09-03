@@ -1,7 +1,7 @@
 # Program Teorema Pythagoras
 
 **Nama:** Inayatul Sholihah  
-**NIM:**2225250057
+**NIM:** 2225250057  
 **Mata Kuliah:** Algoritma dan Pemrograman
 
 ## Deskripsi
