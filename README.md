@@ -2,7 +2,7 @@
 
 **Nama:** Inayatul Sholihah  
 **NIM:** 2225250057  
-**Kelas:** 3A
+**Kelas:** 3A  
 **Mata Kuliah:** Algoritma dan Pemrograman
 
 ## Deskripsi
